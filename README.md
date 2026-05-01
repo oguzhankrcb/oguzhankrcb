@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m currently working on **TBI Bank**<br><br>I regularly write articles on [https://medium.com/@oguzhankrcb](https://medium.com/@oguzhankrcb)<br><br>How to reach me **oguzhankrcb@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhankrcb&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhankrcb" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhankrcb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@oguzhankrcb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oguzhankrcb@gmail.com) 
@@ -13,8 +14,5 @@ I’m currently working on **TBI Bank**<br><br>I regularly write articles on [ht
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oguzhankrcb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=oguzhankrcb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
